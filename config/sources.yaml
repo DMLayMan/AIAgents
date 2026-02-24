@@ -1,0 +1,11 @@
+news_feeds:
+  - https://openai.com/news/rss.xml
+  - https://www.technologyreview.com/topic/artificial-intelligence/feed
+  - https://www.marktechpost.com/feed/
+
+arxiv:
+  categories:
+    - cs.AI
+    - cs.CL
+    - cs.LG
+  max_results_per_category: 8
